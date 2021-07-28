@@ -1,0 +1,12 @@
+.main-block {
+    background: url(Images/main-pic.jpg) 0 0 no-repeat;
+    background-size: cover;
+    padding-top: 14%;
+    padding-bottom: 10%;
+}
+
+.main-block h1,
+.services-block h2 {
+    font-size: 30px;
+    font-weight: 800;
+}
