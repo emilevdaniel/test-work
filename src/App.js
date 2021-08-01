@@ -7,7 +7,7 @@ import MyWorks from './Pages/MyWorks'
 import RingFind from "./Pages/RingFind"
 import OnlinePoker from "./Pages/OnlinePoker";
 
-import {BrowserRouter as Router, Route, Switch} from "react-router-dom";
+import {HashRouter as Router, Route, Switch} from "react-router-dom";
 import Cocktail from "./Components/Cocktail/Cocktail";
 import Site1 from "./Pages/Site1";
 
