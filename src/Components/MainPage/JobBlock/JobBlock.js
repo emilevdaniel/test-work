@@ -37,8 +37,6 @@ const JobBlock = () => {
                 <div className="row align-items-center  ">
                     {cardComponets}
                 </div>
-                <p>Есть еще много различных сайтов написанных только на CSS и HTML с использованием Sass и BEM.</p>
-                <p>И различные работы с <b>JQerry, NodeJS</b> с использованием API и ассинхронных запросов.</p>
             </div>
         </div>
     );
